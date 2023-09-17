@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>modelBot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>modelBot</name>
+	<artifactId>TeacherBot</artifactId>
+	<version>0.0.1</version>
+	<name>TeacherBot</name>
 	<description>model for telegram bots</description>
 	<properties>
 		<java.version>17</java.version>
